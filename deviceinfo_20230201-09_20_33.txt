@@ -1,0 +1,435 @@
+------Device Info------
+date: 20230201-09:20:33
+author: com.liuzh.deviceinfo
+version: v2.9.2.2(268)
+
+---------Dispositivo---------
+Nombre del dispositivo: CPH2239
+Modelo: CPH2239
+Fabricante: OPPO
+Dispositivo: OP4F2F
+Placa: oppo6765
+Hardware: mt6765
+Marca: OPPO
+
+ID de marco de servicios de Google: 31CE0187212CA52C
+ID de publicidad de Google: 554f830d-425e-4770-9392-10ca1ad1abe1
+ID de dispositivo Android: b616792854ae5c55
+Serie de hardware: unknown
+Construir huella digital: OPPO/CPH2239/OP4F2F:11/RP1A.200720.011/1670087092785:user/release-keys
+Tipo de dispositivo: GSM
+Operador de red: TELCEL
+Tipo de red: 13
+Dirección MAC WiFi: Desconocido
+Dirección MAC de Bluetooth: Desconocido
+
+---------Sistema---------
+Nombre de la versión: Android 11 R
+Nivel de API: 30
+Número de compilación: CPH2239_11_C.24
+Tiempo de construcción: 03 dic. 2022 10:28:00 GMT-08:00
+ID de compilación: RP1A.200720.011
+Nivel de parche de seguridad: 2022-12-05
+Bootloader: unknown
+Banda base: M_V3_P10
+Idioma: español (México)
+Zona horaria: hora estándar del Pacífico(GMT-08:00)
+Acceso raíz: No
+Tiempo de actividad del sistema: 37:15:29
+
+Tiempo de ejecución de Java: Android Runtime 0.9
+Java VM: ART 2.1.0
+Tamaño de pila de Java VM: 201 MB
+Arquitectura del kernel: aarch64
+Versión del núcleo: 201 MB
+OpenGL ES: 3.2
+SELinux: Incapaz de determinar
+Versión de OpenSSL: OpenSSL 1.1.0 (compatible; BoringSSL)
+
+--DRM--
+Vendedor: Google
+Versión: 16.0.0
+Descripción: Widevine CDM
+Algoritmo: AES/CBC/NoPadding,HmacSHA256
+Nivel de seguridad: L3
+Identificación del sistema: 8158
+Nivel HDCP: Unprotected
+Nivel máximo de HDCP: Unprotected
+Soporte de informes de uso: True
+Número máximo de sesiones: 16
+Número de sesiones abiertas: 0
+
+---------CPU---------
+Hardware: MT6765G
+Núcleos: 8
+Frecuencia de la CPU: 400MHz - 2301MHz
+Núcleo 1: 2074 Mhz
+Núcleo 2: 2074 Mhz
+Núcleo 3: 2074 Mhz
+Núcleo 4: 2074 Mhz
+Núcleo 5: 1138 Mhz
+Núcleo 6: 1138 Mhz
+Núcleo 7: 1138 Mhz
+Núcleo 8: 1138 Mhz
+SOC: Mediatek Helio G35
+Procesador: Desconocido
+ABI compatibles: arm64-v8a, armeabi-v7a, armeabi
+Hardware de la CPU: MT6765G
+Gobernador de la CPU: Desconocido
+
+Renderizador de GPU: 
+Proveedor de GPU: 
+Versión de GPU: 
+
+---------Red---------
+
+--WIFI--
+Wi-Fi directo: Soportado
+
+--Datos móviles--
+Multi SIM: No soportado
+Tipo de dispositivo: GSM
+
+---------Almacenamiento---------
+
+--RAM--
+Usado: 2313.0 MB
+Total: 3812.0 MB
+
+--Almacenamiento del sistema--
+Camino: /system
+Usado: 1.4 GB
+Total: 1.4 GB
+Sistema de archivos: erofs
+
+--Almacenamiento interno--
+Camino: /data
+Usado: 15.9 GB
+Total: 105.1 GB
+Sistema de archivos: ext4
+
+--Almacenamiento interno--
+Camino: /storage/emulated/0
+Usado: 15.9 GB
+Total: 104.9 GB
+Sistema de archivos: 
+
+---------Batería---------
+Capacidad (datos del sistema): 4230.0 mAh
+Salud: Bueno
+Nivel: 64%
+Estado: No cobrar
+Fuente de alimentación: Batería
+Tecnología: Li-ion
+Temperatura: 32℃
+Voltaje: 3907 mV
+
+---------Pantalla---------
+Nombre: Pantalla integrada
+Altura de la pantalla: 1600 px
+Ancho de pantalla: 720 px
+Frecuencia de actualización: 60.00 fps
+Tamaño de pantalla: Pantalla normal
+Tamaño físico: 6.52   pulgadas
+Orientación: Retrato
+Modo brillo: Manual
+Tiempo de espera de la pantalla: 60 Segundos
+
+Cubo de exhibición: xhdpi
+Ppp de pantalla: 320 dpi
+xdpi: 269.21 dpi
+ydpi: 269.21 dpi
+Densidad lógica: 2.00
+Densidad escalada: 2.00
+Escala de fuente: 1.00
+
+---------Cámara---------
+
+--8.3 MP - atrás--
+Resolución: 3840x2160
+Longitudes focales: 3.37 mm
+Modos de aberración: Apagado
+Modos antibanding: Apagado, 50Hz, 60Hz, Auto
+Modos de exposición automática: Apagado, En, Flash automático, Siempre Flash
+Rangos de FPS objetivo: [10,10], [15,15], [15,20], [20,20], [5,24], [5,30], [30,30]
+Rango de compensación: [-4,4]
+Paso de compensación: 1/2
+Modos de autoenfoque: Apagado, Auto, Macro, Video continuo, Imagen continua
+Efectos: Apagado
+Modos de escena: Prioridad al rostro, Acción, Retrato, Paisaje, Noche, Retrato nocturno, Teatro, playa, Nieve, Puesta de sol, Foto estable, Fuegos artificiales, Deportes, Fiesta, Luz de una vela, HDR
+Modos de estabilización de video: Apagado, En
+Modos de balance de blancos automático: Apagado, Auto, Incandescente, Fluorescente, Fluorescente cálido, Luz, Luz del día nublado, Crepúsculo, Sombra
+Regiones de máxima exposición automática: 1
+Regiones máximas de enfoque automático: 1
+Regiones de balance de blancos automático máximo: 1
+Modos de borde: Apagado, Rápido, Alta calidad
+Flash disponible: si
+Modos de píxeles calientes: Rápido, Alta calidad
+Nivel de hardware: Completo
+Tamaños de miniatura: 0 x 0
+160 x 96
+192 x 108
+178 x 132
+192 x 144
+Colocación de lentes: atrás
+Aberturas: 2.2
+Densidades de filtro: 0.0
+Longitudes focales: 3.37mm
+Estabilización óptica: Apagado
+Calibración de la distancia de enfoque: Sin calibrar
+Capacidades de la cámara: Compatible con versiones anteriores, Sensor manual, Posprocesamiento manual, Leer la configuración del sensor, RAW, Captura en ráfaga, Vídeo de alta velocidad restringido
+Flujos de salida máximos: 3
+Atasco máximo de flujos de salida: 1
+Flujos de salida RAW máximos: 1
+Resultados parciales: 10
+Zoom digital máximo: 5.0
+Tipo de recorte: Centro solamente
+Resoluciones admitidas: 8.29 MP - 3840 x 2160
+7.99 MP - 3264 x 2448
+6.01 MP - 3264 x 1840
+4.80 MP - 3264 x 1472
+7.68 MP - 3200 x 2400
+5.76 MP - 3200 x 1800
+4.61 MP - 3200 x 1440
+4.92 MP - 2560 x 1920
+3.69 MP - 2560 x 1440
+2.95 MP - 2560 x 1152
+5.99 MP - 2448 x 2448
+5.76 MP - 2400 x 2400
+2.46 MP - 2280 x 1080
+3.69 MP - 1920 x 1920
+2.76 MP - 1920 x 1440
+2.07 MP - 1920 x 1080
+1.84 MP - 1920 x 960
+1.92 MP - 1600 x 1200
+1.44 MP - 1600 x 900
+1.15 MP - 1600 x 720
+1.56 MP - 1440 x 1080
+1.23 MP - 1280 x 960
+0.92 MP - 1280 x 720
+0.74 MP - 1280 x 576
+1.17 MP - 1080 x 1080
+0.69 MP - 960 x 720
+0.52 MP - 720 x 720
+0.31 MP - 640 x 480
+0.08 MP - 320 x 240
+Modos de patrón de prueba: Apagado
+Disposición del filtro de color: GBRG
+Tamaño del sensor: 4.71 x 3.49
+Tamaño de matriz de píxeles: 4208 x 3120
+Fuente de marca de tiempo: Desconocido
+Orientación: 90 deg
+Modos de detección de rostros: Apagado, Sencillo
+
+--4.0 MP - Frente--
+Resolución: 2320x1740
+Longitudes focales: 3.41 mm
+Modos de aberración: Apagado
+Modos antibanding: Apagado, 50Hz, 60Hz, Auto
+Modos de exposición automática: Apagado, En
+Rangos de FPS objetivo: [10,10], [15,15], [15,20], [20,20], [5,30], [30,30]
+Rango de compensación: [-4,4]
+Paso de compensación: 1/2
+Modos de autoenfoque: Apagado
+Efectos: Apagado
+Modos de escena: Prioridad al rostro, Acción, Retrato, Paisaje, Noche, Retrato nocturno, Teatro, playa, Nieve, Puesta de sol, Foto estable, Fuegos artificiales, Deportes, Fiesta, Luz de una vela, Código de barras, HDR
+Modos de estabilización de video: Apagado, En
+Modos de balance de blancos automático: Apagado, Auto, Incandescente, Fluorescente, Fluorescente cálido, Luz, Luz del día nublado, Crepúsculo, Sombra
+Regiones de máxima exposición automática: 1
+Regiones máximas de enfoque automático: 0
+Regiones de balance de blancos automático máximo: 1
+Modos de borde: Apagado, Rápido, Alta calidad, Cero retraso del obturador
+Flash disponible: No
+Modos de píxeles calientes: Apagado, Rápido, Alta calidad
+Nivel de hardware: Level 3
+Tamaños de miniatura: 0 x 0
+160 x 96
+192 x 108
+178 x 132
+192 x 144
+Colocación de lentes: Frente
+Aberturas: 2.0
+Densidades de filtro: 0.0
+Longitudes focales: 3.41mm
+Estabilización óptica: Apagado
+Calibración de la distancia de enfoque: Sin calibrar
+Capacidades de la cámara: Compatible con versiones anteriores, Sensor manual, Posprocesamiento manual, Leer la configuración del sensor, RAW, Captura en ráfaga, Reprocesamiento privado, Reprocesamiento YUV
+Flujos de salida máximos: 3
+Atasco máximo de flujos de salida: 1
+Flujos de salida RAW máximos: 1
+Resultados parciales: 10
+Zoom digital máximo: 4.0
+Tipo de recorte: Centro solamente
+Resoluciones admitidas: 4.04 MP - 2320 x 1740
+2.46 MP - 2280 x 1080
+3.15 MP - 2048 x 1536
+2.76 MP - 1920 x 1440
+2.07 MP - 1920 x 1080
+1.84 MP - 1920 x 960
+1.92 MP - 1600 x 1200
+1.44 MP - 1600 x 900
+1.15 MP - 1600 x 720
+1.56 MP - 1440 x 1080
+1.23 MP - 1280 x 960
+0.92 MP - 1280 x 720
+0.74 MP - 1280 x 576
+1.17 MP - 1080 x 1080
+0.76 MP - 1024 x 738
+0.66 MP - 944 x 704
+0.41 MP - 864 x 480
+0.48 MP - 800 x 600
+0.38 MP - 800 x 480
+0.52 MP - 720 x 720
+0.35 MP - 720 x 480
+0.31 MP - 640 x 480
+0.26 MP - 640 x 400
+0.10 MP - 352 x 288
+0.08 MP - 320 x 240
+0.03 MP - 176 x 144
+Modos de patrón de prueba: Apagado
+Disposición del filtro de color: GBRG
+Tamaño del sensor: 4.64 x 3.49
+Tamaño de matriz de píxeles: 4640 x 3488
+Fuente de marca de tiempo: Desconocido
+Orientación: 270 deg
+Modos de detección de rostros: Apagado, Sencillo
+
+---------Temperatura---------
+
+---------Sensores---------
+
+--ACELEROMETRO--
+Vendedor : lis2hh12
+lis2hh12 ACCELEROMETER
+Despertar sensor : No
+Poder : 0.001mA
+
+--CAMPO MAGNÉTICO--
+Vendedor : akm
+akm09915 MAGNETOMETER
+Despertar sensor : No
+Poder : 0.001mA
+
+--ORIENTACIÓN--
+Vendedor : MTK
+ORIENTATION
+Despertar sensor : No
+Poder : 0.001mA
+
+--GIROSCOPIO--
+Vendedor : virtual_gyro
+oem-pseudo-gyro GYROSCOPE
+Despertar sensor : No
+Poder : 0.001mA
+
+--LIGERO--
+Vendedor : sensortek
+stk33502 LIGHT
+Despertar sensor : No
+Poder : 0.001mA
+
+--PROXIMIDAD--
+Vendedor : sensortek
+stk33502 PROXIMITY
+Despertar sensor : si
+Poder : 0.001mA
+
+--CAMPO MAGNÉTICO NO CALIBRADO--
+Vendedor : MTK
+UNCALI_MAG
+Despertar sensor : No
+Poder : 0.001mA
+
+--MOVIMIENTO SIGNIFICATIVO--
+Vendedor : MTK
+SIGNIFICANT_MOTION
+Despertar sensor : si
+Poder : 0.001mA
+
+--DETECTOR DE PASOS--
+Vendedor : MTK
+STEP_DETECTOR
+Despertar sensor : No
+Poder : 0.001mA
+
+--DETECTOR DE PASOS--
+Vendedor : MTK
+STEP_DETECTOR_WAKEUP
+Despertar sensor : si
+Poder : 0.001mA
+
+--CONTADOR DE PASOS--
+Vendedor : MTK
+STEP_COUNTER
+Despertar sensor : No
+Poder : 0.001mA
+
+--DESPIERTA GESTO--
+Vendedor : MTK
+WAKE_GESTURE
+Despertar sensor : si
+Poder : 0.001mA
+
+--GESTO VISTAZO--
+Vendedor : MTK
+GLANCE_GESTURE
+Despertar sensor : si
+Poder : 0.001mA
+
+--ORIENTACIÓN DEL DISPOSITIVO--
+Vendedor : MTK
+DEVICE_ORIENTATION
+Despertar sensor : No
+Poder : 0.001mA
+
+--DETECCIÓN ESTACIONARIA--
+Vendedor : MTK
+STATIONARY_DETECT
+Despertar sensor : si
+Poder : 0.001mA
+
+--DETECCIÓN DE MOVIMIENTO--
+Vendedor : MTK
+MOTION_DETECT
+Despertar sensor : si
+Poder : 0.001mA
+
+--VECTOR DE ROTACIÓN DE JUEGO--
+Vendedor : AOSP
+Game Rotation Vector Sensor
+Despertar sensor : No
+Poder : 0.003mA
+
+--VECTOR DE ROTACIÓN GEOMAGNÉTICA--
+Vendedor : AOSP
+GeoMag Rotation Vector Sensor
+Despertar sensor : No
+Poder : 0.003mA
+
+--GRAVEDAD--
+Vendedor : AOSP
+Gravity Sensor
+Despertar sensor : No
+Poder : 0.003mA
+
+--ACELERACIÓN LINEAL--
+Vendedor : AOSP
+Linear Acceleration Sensor
+Despertar sensor : No
+Poder : 0.003mA
+
+--VECTOR DE ROTACION--
+Vendedor : AOSP
+Rotation Vector Sensor
+Despertar sensor : No
+Poder : 0.003mA
+
+--ORIENTACIÓN--
+Vendedor : AOSP
+Orientation Sensor
+Despertar sensor : No
+Poder : 0.003mA
+
+---------Aplicaciones---------
+Aplicaciones del sistema: 297
+Aplicaciones de usuario: 35
